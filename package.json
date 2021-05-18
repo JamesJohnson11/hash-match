@@ -1,0 +1,25 @@
+{
+  "name": "hash-match",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesJohnson11/hash-match.git"
+  },
+  "author": "Barry Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesJohnson11/hash-match/issues"
+  },
+  "homepage": "https://github.com/JamesJohnson11/hash-match#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
